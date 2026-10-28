@@ -1,6 +1,6 @@
 <!-- بنر عنوان متحرك -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=200&section=header&text=Welcome To My New Page&fontSize=35&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=200&section=header&text=مرحباً%20بكم%20في%20عالمي%20البرمجي&fontSize=35&animation=fadeIn" alt="Header Banner" />
 </p>
 
 <!-- نص الكتابة المتحركة -->
