@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEQDpGX4jm_aQ/profile-displaybackgroundimage-shrink_300_1200/B4DZYDXX1CHIAU-/0/1743813181987?e=1795046400&v=beta&t=cUBQjLZzYBkyZoWq7oTbTAH9DyCaW0--wIawbVwflgU" alt="Header Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEQDpGX4jm_aQ/profile-displaybackgroundimage-shrink_200_800/B4DZYDXX1CHIAU-/0/1743813181987?e=1795046400&v=beta&t=cUBQjLZzYBkyZoWq7oTbTAH9DyCaW0--wIawbVwflgU" alt="Header Banner" />
 </p>
 
 <!-- Typing Effect Text -->
