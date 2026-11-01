@@ -1,1459 +1,274 @@
-﻿<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
-
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=unicode">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="README_files/filelist.xml">
-<link rel=Edit-Time-Data href="README_files/editdata.mso">
-<!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>Haytham Ahmed</o:Author>
-  <o:Template>Normal</o:Template>
-  <o:LastAuthor>Haytham Ahmed</o:LastAuthor>
-  <o:Revision>4</o:Revision>
-  <o:TotalTime>0</o:TotalTime>
-  <o:Created>2026-11-01T19:55:00Z</o:Created>
-  <o:LastSaved>2026-11-01T19:58:00Z</o:LastSaved>
-  <o:Pages>6</o:Pages>
-  <o:Words>1996</o:Words>
-  <o:Characters>11379</o:Characters>
-  <o:Lines>94</o:Lines>
-  <o:Paragraphs>26</o:Paragraphs>
-  <o:CharactersWithSpaces>13349</o:CharactersWithSpaces>
-  <o:Version>16.00</o:Version>
- </o:DocumentProperties>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]-->
-<link rel=themeData href="README_files/themedata.thmx">
-<link rel=colorSchemeMapping href="README_files/colorschememapping.xml">
-<!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:View>Print</w:View>
-  <w:TrackMoves>false</w:TrackMoves>
-  <w:TrackFormatting/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>EN-US</w:LidThemeOther>
-  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
-  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:BreakWrappedTables/>
-   <w:SplitPgBreakAndParaMark/>
-  </w:Compatibility>
-  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
-  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="376">
-  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 9"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="header"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footer"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index heading"/>
-  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of figures"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope return"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="line number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="page number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of authorities"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="macro"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toa heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 5"/>
-  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Closing"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Signature"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Message Header"/>
-  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Salutation"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Date"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Block Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="FollowedHyperlink"/>
-  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Document Map"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Plain Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="E-mail Signature"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Top of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Bottom of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal (Web)"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Acronym"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Cite"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Code"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Definition"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Keyboard"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Preformatted"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Sample"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Typewriter"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Variable"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Table"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation subject"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="No List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Contemporary"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Elegant"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Professional"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Balloon Text"/>
-  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Theme"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" QFormat="true"
-   Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" QFormat="true"
-   Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" QFormat="true"
-   Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" QFormat="true"
-   Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" QFormat="true"
-   Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" QFormat="true"
-   Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
-  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
-  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
-  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
-  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
-  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
-  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
-  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hashtag"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Unresolved Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Link"/>
- </w:LatentStyles>
-</xml><![endif]-->
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:Wingdings;
-	panose-1:5 0 0 0 0 0 0 0 0 0;
-	mso-font-charset:2;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:0 268435456 0 0 -2147483648 0;}
-@font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:roman;
-	mso-font-pitch:variable;
-	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
-@font-face
-	{font-family:"Segoe UI Symbol";
-	panose-1:2 11 5 2 4 2 4 2 2 3;
-	mso-font-charset:0;
-	mso-generic-font-family:swiss;
-	mso-font-pitch:variable;
-	mso-font-signature:-2147483165 302055407 262144 0 1 0;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-parent:"";
-	margin:0in;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";
-	mso-fareast-theme-font:minor-fareast;}
-h1
-	{mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"Heading 1 Char";
-	mso-margin-top-alt:auto;
-	margin-right:0in;
-	mso-margin-bottom-alt:auto;
-	margin-left:0in;
-	mso-pagination:widow-orphan;
-	mso-outline-level:1;
-	font-size:24.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";
-	mso-fareast-theme-font:minor-fareast;
-	font-weight:bold;}
-h2
-	{mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"Heading 2 Char";
-	mso-margin-top-alt:auto;
-	margin-right:0in;
-	mso-margin-bottom-alt:auto;
-	margin-left:0in;
-	mso-pagination:widow-orphan;
-	mso-outline-level:2;
-	font-size:18.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";
-	mso-fareast-theme-font:minor-fareast;
-	font-weight:bold;}
-h3
-	{mso-style-noshow:yes;
-	mso-style-priority:9;
-	mso-style-qformat:yes;
-	mso-style-link:"Heading 3 Char";
-	mso-style-next:Normal;
-	margin-top:2.0pt;
-	margin-right:0in;
-	margin-bottom:0in;
-	margin-left:0in;
-	mso-pagination:widow-orphan lines-together;
-	page-break-after:avoid;
-	mso-outline-level:3;
-	font-size:12.0pt;
-	font-family:"Calibri Light",sans-serif;
-	mso-ascii-font-family:"Calibri Light";
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"Times New Roman";
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:"Calibri Light";
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#1F3763;
-	mso-themecolor:accent1;
-	mso-themeshade:127;
-	font-weight:normal;}
-a:link, span.MsoHyperlink
-	{mso-style-priority:99;
-	color:blue;
-	text-decoration:underline;
-	text-underline:single;}
-a:visited, span.MsoHyperlinkFollowed
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	color:purple;
-	text-decoration:underline;
-	text-underline:single;}
-p
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-margin-top-alt:auto;
-	margin-right:0in;
-	mso-margin-bottom-alt:auto;
-	margin-left:0in;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";
-	mso-fareast-theme-font:minor-fareast;}
-span.Heading1Char
-	{mso-style-name:"Heading 1 Char";
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"Heading 1";
-	mso-ansi-font-size:20.0pt;
-	mso-bidi-font-size:20.0pt;
-	font-family:"Calibri Light",sans-serif;
-	mso-ascii-font-family:"Calibri Light";
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"Times New Roman";
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:"Calibri Light";
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#2F5496;
-	mso-themecolor:accent1;
-	mso-themeshade:191;}
-span.Heading2Char
-	{mso-style-name:"Heading 2 Char";
-	mso-style-noshow:yes;
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"Heading 2";
-	mso-ansi-font-size:16.0pt;
-	mso-bidi-font-size:16.0pt;
-	font-family:"Calibri Light",sans-serif;
-	mso-ascii-font-family:"Calibri Light";
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"Times New Roman";
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:"Calibri Light";
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#2F5496;
-	mso-themecolor:accent1;
-	mso-themeshade:191;}
-p.msonormal0, li.msonormal0, div.msonormal0
-	{mso-style-name:msonormal;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-unhide:no;
-	mso-margin-top-alt:auto;
-	margin-right:0in;
-	mso-margin-bottom-alt:auto;
-	margin-left:0in;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";
-	mso-fareast-theme-font:minor-fareast;}
-span.Heading3Char
-	{mso-style-name:"Heading 3 Char";
-	mso-style-noshow:yes;
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"Heading 3";
-	mso-ansi-font-size:12.0pt;
-	mso-bidi-font-size:12.0pt;
-	font-family:"Calibri Light",sans-serif;
-	mso-ascii-font-family:"Calibri Light";
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"Times New Roman";
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:"Calibri Light";
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	color:#1F3763;
-	mso-themecolor:accent1;
-	mso-themeshade:127;}
-.MsoChpDefault
-	{mso-style-type:export-only;
-	mso-default-props:yes;
-	font-size:10.0pt;
-	mso-ansi-font-size:10.0pt;
-	mso-bidi-font-size:10.0pt;
-	mso-font-kerning:0pt;
-	mso-ligatures:none;}
-@page WordSection1
-	{size:8.5in 11.0in;
-	margin:1.0in 1.0in 1.0in 1.0in;
-	mso-header-margin:.5in;
-	mso-footer-margin:.5in;
-	mso-paper-source:0;}
-div.WordSection1
-	{page:WordSection1;}
- /* List Definitions */
- @list l0
-	{mso-list-id:1117990341;
-	mso-list-template-ids:412529756;}
-@list l0:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l0:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:1.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l0:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:1.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:2.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:2.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:3.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:3.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:4.0in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:;
-	mso-level-tab-stop:4.5in;
-	mso-level-number-position:left;
-	text-indent:-.25in;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-ol
-	{margin-bottom:0in;}
-ul
-	{margin-bottom:0in;}
--->
-</style>
-<!--[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:"Table Normal";
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-parent:"";
-	mso-padding-alt:0in 5.4pt 0in 5.4pt;
-	mso-para-margin:0in;
-	mso-pagination:widow-orphan;
-	font-size:10.0pt;
-	font-family:"Times New Roman",serif;}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="1026"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><![endif]-->
-</head>
-
-<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in;word-wrap:
-break-word'>
-
-<div class=WordSection1>
-
-<p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'>HAITHAM
-AHMED | DOCUMENT &amp; PDF SPECIALIST<o:p></o:p></span></b></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;!--
-═══════════════ PREMIUM HEADER ═══════════════ --&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://media.licdn.com/dms/image/v2/D4D16AQEQDpGX4jm_aQ/profile-displaybackgroundimage-shrink_200_800/B4DZYDXX1CHIAU-/0/1743813181987?e=1795046400&amp;v=beta&amp;t=cUBQjLZzYBkyZoWq7oTbTAH9DyCaW0--wIawbVwflgU">https://media.licdn.com/dms/image/v2/D4D16AQEQDpGX4jm_aQ/profile-displaybackgroundimage-shrink_200_800/B4DZYDXX1CHIAU-/0/1743813181987?e=1795046400&amp;v=beta&amp;t=cUBQjLZzYBkyZoWq7oTbTAH9DyCaW0--wIawbVwflgU</a>&quot;<br>
-width=&quot;100%&quot;<br>
-alt=&quot;Haitham Ahmed Professional Banner&quot;/&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;h1
-align=&quot;center&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://readme-typing-svg.herokuapp.com/?font=Montserrat&amp;weight=800&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=36D6C5&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=HAITHAM+AHMED;DOCUMENT+%26+PDF+SPECIALIST;PROFESSIONAL+DOCUMENT+SOLUTIONS">https://readme-typing-svg.herokuapp.com?font=Montserrat&amp;weight=800&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=36D6C5&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=HAITHAM+AHMED;DOCUMENT+%26+PDF+SPECIALIST;PROFESSIONAL+DOCUMENT+SOLUTIONS</a>&quot;<br>
-alt=&quot;Animated Name&quot;/&gt;<br>
-&lt;/h1&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=8FAEBB&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Document+Formatting+%26+PDF+Design;Interactive+Fillable+PDF+Forms;Corporate+Reports+%26+Business+Documents;Professional+File+Conversion+%26+Restoration">https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=8FAEBB&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Document+Formatting+%26+PDF+Design;Interactive+Fillable+PDF+Forms;Corporate+Reports+%26+Business+Documents;Professional+File+Conversion+%26+Restoration</a>&quot;<br>
-alt=&quot;Animated Professional Services&quot;/&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;a href=&quot;mailto:info@tools4u.cloud&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.shields.io/badge/CONTACT%20ME-36D6C5?style=for-the-badge&amp;logo=gmail&amp;logoColor=071421">https://img.shields.io/badge/CONTACT%20ME-36D6C5?style=for-the-badge&amp;logo=gmail&amp;logoColor=071421</a>&quot;/&gt;<br>
-&lt;/a&gt;<br>
-&lt;a href=&quot;<a href="https://github.com/haithamah26">https://github.com/haithamah26</a>&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.shields.io/badge/GITHUB-PROFILE-172B3A?style=for-the-badge&amp;logo=github&amp;logoColor=white">https://img.shields.io/badge/GITHUB-PROFILE-172B3A?style=for-the-badge&amp;logo=github&amp;logoColor=white</a>&quot;/&gt;<br>
-&lt;/a&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://komarev.com/ghpvc/?username=haithamah26&amp;style=flat-square&amp;color=36D6C5&amp;label=PROFILE+VIEWS">https://komarev.com/ghpvc/?username=haithamah26&amp;style=flat-square&amp;color=36D6C5&amp;label=PROFILE+VIEWS</a>&quot;/&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<div class=MsoNormal align=center style='text-align:center'><span
-style='mso-fareast-font-family:"Times New Roman"'>
-
-<hr size=2 width="100%" align=center>
-
-</span></div>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;!--
-═══════════════ ABOUT ME ═══════════════ --&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;h2
-align=&quot;center&quot;&gt;</span><span style='font-family:"Segoe UI Symbol",sans-serif;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Segoe UI Symbol"'>✦</span><span
-style='mso-fareast-font-family:"Times New Roman"'> ABOUT ME </span><span
-style='font-family:"Segoe UI Symbol",sans-serif;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Segoe UI Symbol"'>✦</span><span style='mso-fareast-font-family:
-"Times New Roman"'>&lt;/h2&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=36D6C5">https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=36D6C5</a>&quot;
-width=&quot;65%&quot;/&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;b&gt;Transforming Documents Into Professional Digital
-Experiences.&lt;/b&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>I am
-a professional <b>Document Formatting &amp; PDF Specialist</b>, helping
-businesses, academics, and individuals transform unstructured content into
-polished, executive-ready, and interactive documents.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>My
-approach combines precision, functionality, and modern visual design to deliver
-documents that communicate clearly and create a lasting professional
-impression.<o:p></o:p></span></p>
-
-<p class=MsoNormal><b><span style='font-family:"Segoe UI Symbol",sans-serif;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Segoe UI Symbol"'>✦</span></b><b><span
-style='mso-fareast-font-family:"Times New Roman"'> Professional Focus<o:p></o:p></span></b></p>
-
-<ul style='margin-top:0in' type=disc>
- <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list .5in'><span
-     style='mso-fareast-font-family:"Times New Roman"'>Professional PDF editing
-     and document design.<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list .5in'><span
-     style='mso-fareast-font-family:"Times New Roman"'>Advanced Microsoft Word
-     formatting.<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list .5in'><span
-     style='mso-fareast-font-family:"Times New Roman"'>Interactive and fillable
-     PDF forms.<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list .5in'><span
-     style='mso-fareast-font-family:"Times New Roman"'>Corporate reports and
-     business documentation.<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list .5in'><span
-     style='mso-fareast-font-family:"Times New Roman"'>Academic papers, theses,
-     and e-books.<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list .5in'><span
-     style='mso-fareast-font-family:"Times New Roman"'>PDF conversion,
-     restoration, and optimization.<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-list:l0 level1 lfo1;tab-stops:list .5in'><span
-     style='mso-fareast-font-family:"Times New Roman"'>Print-ready layouts and
-     document redesign.<o:p></o:p></span></li>
-</ul>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.shields.io/badge/QUALITY-Professional-102D3A?style=flat-square&amp;labelColor=071421">https://img.shields.io/badge/QUALITY-Professional-102D3A?style=flat-square&amp;labelColor=071421</a>&quot;/&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.shields.io/badge/PRECISION-Detail%20Focused-102D3A?style=flat-square&amp;labelColor=071421">https://img.shields.io/badge/PRECISION-Detail%20Focused-102D3A?style=flat-square&amp;labelColor=071421</a>&quot;/&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.shields.io/badge/DESIGN-Modern-102D3A?style=flat-square&amp;labelColor=071421">https://img.shields.io/badge/DESIGN-Modern-102D3A?style=flat-square&amp;labelColor=071421</a>&quot;/&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<div class=MsoNormal align=center style='text-align:center'><span
-style='mso-fareast-font-family:"Times New Roman"'>
-
-<hr size=2 width="100%" align=center>
-
-</span></div>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;!--
-═══════════════ SERVICES ═══════════════ --&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;h2
-align=&quot;center&quot;&gt;</span><span style='font-family:"Segoe UI Symbol",sans-serif;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Segoe UI Symbol"'>✦</span><span
-style='mso-fareast-font-family:"Times New Roman"'> PROFESSIONAL SERVICES </span><span
-style='font-family:"Segoe UI Symbol",sans-serif;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Segoe UI Symbol"'>✦</span><span style='mso-fareast-font-family:
-"Times New Roman"'>&lt;/h2&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;sub&gt;Specialized solutions designed for professional results.&lt;/sub&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;table
-align=&quot;center&quot; border=&quot;0&quot;&gt;<br>
-&lt;tr&gt;<br>
-&lt;td align=&quot;center&quot; width=&quot;33%&quot;&gt;<br>
-&lt;img src=&quot;<a href="https://img.icons8.com/fluency/96/pdf.png">https://img.icons8.com/fluency/96/pdf.png</a>&quot;
-width=&quot;62&quot; alt=&quot;PDF Design&quot;/&gt;<br>
-&lt;br/&gt;<br>
-&lt;b&gt;PDF DESIGN&lt;/b&gt;<br>
-&lt;br/&gt;<br>
-&lt;sub&gt;Editing &amp; visual design&lt;/sub&gt;<br>
-&lt;/td&gt;<br>
-&lt;td align=&quot;center&quot; width=&quot;33%&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.icons8.com/fluency/96/microsoft-word-2019.png">https://img.icons8.com/fluency/96/microsoft-word-2019.png</a>&quot;
-width=&quot;62&quot; alt=&quot;Document Formatting&quot;/&gt;<br>
-&lt;br/&gt;<br>
-&lt;b&gt;FORMATTING&lt;/b&gt;<br>
-&lt;br/&gt;<br>
-&lt;sub&gt;Professional layouts&lt;/sub&gt;<br>
-&lt;/td&gt;<br>
-&lt;td align=&quot;center&quot; width=&quot;33%&quot;&gt;<br>
-&lt;img src=&quot;<a href="https://img.icons8.com/fluency/96/document.png">https://img.icons8.com/fluency/96/document.png</a>&quot;
-width=&quot;62&quot; alt=&quot;Fillable Forms&quot;/&gt;<br>
-&lt;br/&gt;<br>
-&lt;b&gt;FILLABLE FORMS&lt;/b&gt;<br>
-&lt;br/&gt;<br>
-&lt;sub&gt;Interactive PDF forms&lt;/sub&gt;<br>
-&lt;/td&gt;<br>
-&lt;/tr&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;tr&gt;<br>
-&lt;td align=&quot;center&quot; width=&quot;33%&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.icons8.com/fluency/96/data-integration.png">https://img.icons8.com/fluency/96/data-integration.png</a>&quot;
-width=&quot;62&quot; alt=&quot;File Conversion&quot;/&gt;<br>
-&lt;br/&gt;<br>
-&lt;b&gt;CONVERSION&lt;/b&gt;<br>
-&lt;br/&gt;<br>
-&lt;sub&gt;PDF, Word &amp; formats&lt;/sub&gt;<br>
-&lt;/td&gt;<br>
-&lt;td align=&quot;center&quot; width=&quot;33%&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.icons8.com/fluency/96/business-report.png">https://img.icons8.com/fluency/96/business-report.png</a>&quot;
-width=&quot;62&quot; alt=&quot;Corporate Reports&quot;/&gt;<br>
-&lt;br/&gt;<br>
-&lt;b&gt;CORPORATE REPORTS&lt;/b&gt;<br>
-&lt;br/&gt;<br>
-&lt;sub&gt;Business documentation&lt;/sub&gt;<br>
-&lt;/td&gt;<br>
-&lt;td align=&quot;center&quot; width=&quot;33%&quot;&gt;<br>
-&lt;img src=&quot;<a href="https://img.icons8.com/fluency/96/maintenance.png">https://img.icons8.com/fluency/96/maintenance.png</a>&quot;
-width=&quot;62&quot; alt=&quot;PDF Restoration&quot;/&gt;<br>
-&lt;br/&gt;<br>
-&lt;b&gt;RESTORATION&lt;/b&gt;<br>
-&lt;br/&gt;<br>
-&lt;sub&gt;Repair &amp; optimization&lt;/sub&gt;<br>
-&lt;/td&gt;<br>
-&lt;/tr&gt;<br>
-&lt;/table&gt;<o:p></o:p></span></p>
-
-<div class=MsoNormal align=center style='text-align:center'><span
-style='mso-fareast-font-family:"Times New Roman"'>
-
-<hr size=2 width="100%" align=center>
-
-</span></div>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;!--
-═══════════════ TOOLS ═══════════════ --&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;h2
-align=&quot;center&quot;&gt;</span><span style='font-family:"Segoe UI Symbol",sans-serif;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Segoe UI Symbol"'>✦</span><span
-style='mso-fareast-font-family:"Times New Roman"'> TOOLS &amp; TECHNOLOGIES </span><span
-style='font-family:"Segoe UI Symbol",sans-serif;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Segoe UI Symbol"'>✦</span><span style='mso-fareast-font-family:
-"Times New Roman"'>&lt;/h2&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.shields.io/badge/Adobe%20Acrobat%20Pro-FF0000?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white">https://img.shields.io/badge/Adobe%20Acrobat%20Pro-FF0000?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white</a>&quot;/&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&amp;logo=microsoftword&amp;logoColor=white">https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&amp;logo=microsoftword&amp;logoColor=white</a>&quot;/&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white">https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white</a>&quot;/&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&amp;logo=latex&amp;logoColor=white">https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&amp;logo=latex&amp;logoColor=white</a>&quot;/&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white">https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white</a>&quot;/&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.shields.io/badge/PDF%20Solutions-36D6C5?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=071421">https://img.shields.io/badge/PDF%20Solutions-36D6C5?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=071421</a>&quot;/&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<div class=MsoNormal align=center style='text-align:center'><span
-style='mso-fareast-font-family:"Times New Roman"'>
-
-<hr size=2 width="100%" align=center>
-
-</span></div>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;!--
-═══════════════ PORTFOLIO ═══════════════ --&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;h2
-align=&quot;center&quot;&gt;</span><span style='font-family:"Segoe UI Symbol",sans-serif;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Segoe UI Symbol"'>✦</span><span
-style='mso-fareast-font-family:"Times New Roman"'> SELECTED PORTFOLIO </span><span
-style='font-family:"Segoe UI Symbol",sans-serif;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Segoe UI Symbol"'>✦</span><span style='mso-fareast-font-family:
-"Times New Roman"'>&lt;/h2&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;sub&gt;A showcase of professional document design and PDF
-solutions.&lt;/sub&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;table
-align=&quot;center&quot;&gt;<br>
-&lt;tr&gt;<br>
-&lt;td width=&quot;50%&quot; align=&quot;center&quot;&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'>01.
-INTERACTIVE APPLICATION FORM<o:p></o:p></span></b></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;a
-href=&quot;<a href="https://github.com/haithamah26/repo/raw/main/sample1.pdf">https://github.com/haithamah26/repo/raw/main/sample1.pdf</a>&quot;&gt;<br>
-&lt;img src=&quot;./assets/sample1.png&quot; width=&quot;90%&quot;
-alt=&quot;Interactive Application Form&quot;/&gt;<br>
-&lt;/a&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Interactive
-fields, dropdown selections, automatic calculations, and validation.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><a
-href="https://github.com/haithamah26/repo/raw/main/sample1.pdf"><b>VIEW PDF →</b></a><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;/td&gt;<br>
-&lt;td width=&quot;50%&quot; align=&quot;center&quot;&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'>02.
-CORPORATE ANNUAL REPORT<o:p></o:p></span></b></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;a
-href=&quot;<a href="https://github.com/haithamah26/repo/raw/main/sample2.pdf">https://github.com/haithamah26/repo/raw/main/sample2.pdf</a>&quot;&gt;<br>
-&lt;img src=&quot;./assets/sample2.png&quot; width=&quot;90%&quot;
-alt=&quot;Corporate Annual Report&quot;/&gt;<br>
-&lt;/a&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Executive
-report redesign with professional typography, charts, and branding.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><a
-href="https://github.com/haithamah26/repo/raw/main/sample2.pdf"><b>VIEW PDF →</b></a><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;/td&gt;<br>
-&lt;/tr&gt;<br>
-&lt;tr&gt;<br>
-&lt;td width=&quot;50%&quot; align=&quot;center&quot;&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'>03.
-ACADEMIC THESIS &amp; E-BOOK<o:p></o:p></span></b></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;a
-href=&quot;<a href="https://github.com/haithamah26/repo/raw/main/sample3.pdf">https://github.com/haithamah26/repo/raw/main/sample3.pdf</a>&quot;&gt;<br>
-&lt;img src=&quot;./assets/sample3.png&quot; width=&quot;90%&quot;
-alt=&quot;Academic Thesis&quot;/&gt;<br>
-&lt;/a&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Academic
-formatting, structured citations, headers, and advanced tables of contents.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><a
-href="https://github.com/haithamah26/repo/raw/main/sample3.pdf"><b>VIEW PDF →</b></a><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;/td&gt;<br>
-&lt;td width=&quot;50%&quot; align=&quot;center&quot;&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'>04.
-PDF RESTORATION &amp; CONVERSION<o:p></o:p></span></b></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;a
-href=&quot;<a href="https://github.com/haithamah26/repo/raw/main/sample4.pdf">https://github.com/haithamah26/repo/raw/main/sample4.pdf</a>&quot;&gt;<br>
-&lt;img src=&quot;./assets/sample4.png&quot; width=&quot;90%&quot;
-alt=&quot;PDF Restoration&quot;/&gt;<br>
-&lt;/a&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Scanned
-document conversion into clean, editable Word files and optimized PDFs.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><a
-href="https://github.com/haithamah26/repo/raw/main/sample4.pdf"><b>VIEW PDF →</b></a><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;/td&gt;<br>
-&lt;/tr&gt;<br>
-&lt;/table&gt;<o:p></o:p></span></p>
-
-<div class=MsoNormal align=center style='text-align:center'><span
-style='mso-fareast-font-family:"Times New Roman"'>
-
-<hr size=2 width="100%" align=center>
-
-</span></div>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;!--
-═══════════════ GITHUB ANALYTICS ═══════════════ --&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;h2
-align=&quot;center&quot;&gt;</span><span style='font-family:"Segoe UI Symbol",sans-serif;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Segoe UI Symbol"'>✦</span><span
-style='mso-fareast-font-family:"Times New Roman"'> GITHUB ANALYTICS </span><span
-style='font-family:"Segoe UI Symbol",sans-serif;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Segoe UI Symbol"'>✦</span><span style='mso-fareast-font-family:
-"Times New Roman"'>&lt;/h2&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;img width=&quot;95%&quot; src=&quot;<a
-href="https://github-readme-stats.vercel.app/api?username=haithamah26&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=071421&amp;title_color=36D6C5&amp;icon_color=36D6C5&amp;text_color=C9D6DF&amp;include_all_commits=true">https://github-readme-stats.vercel.app/api?username=haithamah26&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=071421&amp;title_color=36D6C5&amp;icon_color=36D6C5&amp;text_color=C9D6DF&amp;include_all_commits=true</a>&quot;
-alt=&quot;GitHub Statistics&quot;/&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;img width=&quot;95%&quot; src=&quot;<a
-href="https://github-readme-stats.vercel.app/api/top-langs/?username=haithamah26&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=071421&amp;title_color=36D6C5&amp;text_color=C9D6DF">https://github-readme-stats.vercel.app/api/top-langs/?username=haithamah26&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=071421&amp;title_color=36D6C5&amp;text_color=C9D6DF</a>&quot;
-alt=&quot;Most Used Languages&quot;/&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;img width=&quot;95%&quot; src=&quot;<a
-href="https://github-readme-streak-stats.herokuapp.com/?user=haithamah26&amp;theme=tokyonight&amp;hide_border=true&amp;background=071421&amp;ring=36D6C5&amp;fire=36D6C5&amp;currStreakLabel=36D6C5">https://github-readme-streak-stats.herokuapp.com/?user=haithamah26&amp;theme=tokyonight&amp;hide_border=true&amp;background=071421&amp;ring=36D6C5&amp;fire=36D6C5&amp;currStreakLabel=36D6C5</a>&quot;
-alt=&quot;GitHub Contribution Streak&quot;/&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<div class=MsoNormal align=center style='text-align:center'><span
-style='mso-fareast-font-family:"Times New Roman"'>
-
-<hr size=2 width="100%" align=center>
-
-</span></div>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;!--
-═══════════════ CONTRIBUTION GRAPH ═══════════════ --&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;h2
-align=&quot;center&quot;&gt;</span><span style='font-family:"Segoe UI Symbol",sans-serif;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Segoe UI Symbol"'>✦</span><span
-style='mso-fareast-font-family:"Times New Roman"'> CONTRIBUTION ACTIVITY </span><span
-style='font-family:"Segoe UI Symbol",sans-serif;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Segoe UI Symbol"'>✦</span><span style='mso-fareast-font-family:
-"Times New Roman"'>&lt;/h2&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://github-readme-activity-graph.vercel.app/graph?username=haithamah26&amp;bg_color=071421&amp;color=36D6C5&amp;line=36D6C5&amp;point=FFFFFF&amp;area=true&amp;hide_border=true">https://github-readme-activity-graph.vercel.app/graph?username=haithamah26&amp;bg_color=071421&amp;color=36D6C5&amp;line=36D6C5&amp;point=FFFFFF&amp;area=true&amp;hide_border=true</a>&quot;
-width=&quot;100%&quot; alt=&quot;Contribution Activity&quot;/&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<div class=MsoNormal align=center style='text-align:center'><span
-style='mso-fareast-font-family:"Times New Roman"'>
-
-<hr size=2 width="100%" align=center>
-
-</span></div>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;!--
-═══════════════ CONTACT ═══════════════ --&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;h2
-align=&quot;center&quot;&gt;</span><span style='font-family:"Segoe UI Symbol",sans-serif;
-mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Segoe UI Symbol"'>✦</span><span
-style='mso-fareast-font-family:"Times New Roman"'> LET'S WORK TOGETHER </span><span
-style='font-family:"Segoe UI Symbol",sans-serif;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:"Segoe UI Symbol"'>✦</span><span style='mso-fareast-font-family:
-"Times New Roman"'>&lt;/h2&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;b&gt;Have a document that needs a professional transformation?&lt;/b&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-Let's turn your ideas and documents into polished, functional, and professional
-deliverables.<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;a href=&quot;mailto:info@tools4u.cloud&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.shields.io/badge/EMAIL%20ME-info%40tools4u.cloud-36D6C5?style=for-the-badge&amp;logo=gmail&amp;logoColor=071421">https://img.shields.io/badge/EMAIL%20ME-info%40tools4u.cloud-36D6C5?style=for-the-badge&amp;logo=gmail&amp;logoColor=071421</a>&quot;/&gt;<br>
-&lt;/a&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;a href=&quot;<a href="https://github.com/haithamah26">https://github.com/haithamah26</a>&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white">https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white</a>&quot;/&gt;<br>
-&lt;/a&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;img src=&quot;<a
-href="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071421,50:103B48,100:36D6C5&amp;height=110&amp;section=footer">https://capsule-render.vercel.app/api?type=waving&amp;color=0:071421,50:103B48,100:36D6C5&amp;height=110&amp;section=footer</a>&quot;/&gt;<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>&lt;p
-align=&quot;center&quot;&gt;<br>
-&lt;b&gt;PRECISION • QUALITY • PROFESSIONALISM&lt;/b&gt;<br>
-&lt;br/&gt;<br>
-&lt;sub&gt;Turning Documents Into Professional Experiences.&lt;/sub&gt;<br>
-&lt;br/&gt;&lt;br/&gt;<br>
-© 2026 HAITHAM AHMED | ALL RIGHTS RESERVED<br>
-&lt;/p&gt;<o:p></o:p></span></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-</div>
-
-</body>
-
-</html>
+HAITHAM AHMED | DOCUMENT & PDF SPECIALIST
+
+<!-- ═══════════════ PREMIUM HEADER ═══════════════ -->
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEQDpGX4jm_aQ/profile-displaybackgroundimage-shrink_200_800/B4DZYDXX1CHIAU-/0/1743813181987?e=1795046400&v=beta&t=cUBQjLZzYBkyZoWq7oTbTAH9DyCaW0--wIawbVwflgU"
+       width="100%"
+       alt="Haitham Ahmed Professional Banner"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&duration=3000&pause=1000&color=36D6C5&center=true&vCenter=true&width=750&lines=HAITHAM+AHMED;DOCUMENT+%26+PDF+SPECIALIST;PROFESSIONAL+DOCUMENT+SOLUTIONS"
+       alt="Animated Name"/>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=8FAEBB&center=true&vCenter=true&width=700&lines=Document+Formatting+%26+PDF+Design;Interactive+Fillable+PDF+Forms;Corporate+Reports+%26+Business+Documents;Professional+File+Conversion+%26+Restoration"
+       alt="Animated Professional Services"/>
+</p>
+
+<p align="center">
+  <a href="mailto:info@tools4u.cloud">
+    <img src="https://img.shields.io/badge/CONTACT%20ME-36D6C5?style=for-the-badge&logo=gmail&logoColor=071421"/>
+  </a>
+  <a href="https://github.com/haithamah26">
+    <img src="https://img.shields.io/badge/GITHUB-PROFILE-172B3A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=haithamah26&style=flat-square&color=36D6C5&label=PROFILE+VIEWS"/>
+</p>
+
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
+
+<h2 align="center">✦ ABOUT ME ✦</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=36D6C5" width="65%"/>
+</p>
+
+<p align="center">
+  <b>Transforming Documents Into Professional Digital Experiences.</b>
+</p>
+
+I am a professional Document Formatting & PDF Specialist, helping businesses, academics, and individuals transform unstructured content into polished, executive-ready, and interactive documents.
+
+My approach combines precision, functionality, and modern visual design to deliver documents that communicate clearly and create a lasting professional impression.
+
+✦ Professional Focus
+
+Professional PDF editing and document design.
+
+Advanced Microsoft Word formatting.
+
+Interactive and fillable PDF forms.
+
+Corporate reports and business documentation.
+
+Academic papers, theses, and e-books.
+
+PDF conversion, restoration, and optimization.
+
+Print-ready layouts and document redesign.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/QUALITY-Professional-102D3A?style=flat-square&labelColor=071421"/>
+  <img src="https://img.shields.io/badge/PRECISION-Detail%20Focused-102D3A?style=flat-square&labelColor=071421"/>
+  <img src="https://img.shields.io/badge/DESIGN-Modern-102D3A?style=flat-square&labelColor=071421"/>
+</p>
+
+<!-- ═══════════════ SERVICES ═══════════════ -->
+
+<h2 align="center">✦ PROFESSIONAL SERVICES ✦</h2>
+
+<p align="center">
+  <sub>Specialized solutions designed for professional results.</sub>
+</p>
+
+<table align="center" border="0">
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/fluency/96/pdf.png" width="62" alt="PDF Design"/>
+  <br/>
+  <b>PDF DESIGN</b>
+  <br/>
+  <sub>Editing & visual design</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/fluency/96/microsoft-word-2019.png" width="62" alt="Document Formatting"/>
+  <br/>
+  <b>FORMATTING</b>
+  <br/>
+  <sub>Professional layouts</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/fluency/96/document.png" width="62" alt="Fillable Forms"/>
+  <br/>
+  <b>FILLABLE FORMS</b>
+  <br/>
+  <sub>Interactive PDF forms</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/fluency/96/data-integration.png" width="62" alt="File Conversion"/>
+  <br/>
+  <b>CONVERSION</b>
+  <br/>
+  <sub>PDF, Word & formats</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/fluency/96/business-report.png" width="62" alt="Corporate Reports"/>
+  <br/>
+  <b>CORPORATE REPORTS</b>
+  <br/>
+  <sub>Business documentation</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/fluency/96/maintenance.png" width="62" alt="PDF Restoration"/>
+  <br/>
+  <b>RESTORATION</b>
+  <br/>
+  <sub>Repair & optimization</sub>
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ TOOLS ═══════════════ -->
+
+<h2 align="center">✦ TOOLS & TECHNOLOGIES ✦</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Pro-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PDF%20Solutions-36D6C5?style=for-the-badge&logo=adobeacrobatreader&logoColor=071421"/>
+</p>
+
+<!-- ═══════════════ PORTFOLIO ═══════════════ -->
+
+<h2 align="center">✦ SELECTED PORTFOLIO ✦</h2>
+
+<p align="center">
+  <sub>A showcase of professional document design and PDF solutions.</sub>
+</p>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+01. INTERACTIVE APPLICATION FORM
+
+<a href="https://github.com/haithamah26/repo/raw/main/sample1.pdf">
+  <img src="./assets/sample1.png" width="90%" alt="Interactive Application Form"/>
+</a>
+
+Interactive fields, dropdown selections, automatic calculations, and validation.
+
+VIEW PDF →
+
+</td>
+<td width="50%" align="center">
+
+02. CORPORATE ANNUAL REPORT
+
+<a href="https://github.com/haithamah26/repo/raw/main/sample2.pdf">
+  <img src="./assets/sample2.png" width="90%" alt="Corporate Annual Report"/>
+</a>
+
+Executive report redesign with professional typography, charts, and branding.
+
+VIEW PDF →
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+03. ACADEMIC THESIS & E-BOOK
+
+<a href="https://github.com/haithamah26/repo/raw/main/sample3.pdf">
+  <img src="./assets/sample3.png" width="90%" alt="Academic Thesis"/>
+</a>
+
+Academic formatting, structured citations, headers, and advanced tables of contents.
+
+VIEW PDF →
+
+</td>
+<td width="50%" align="center">
+
+04. PDF RESTORATION & CONVERSION
+
+<a href="https://github.com/haithamah26/repo/raw/main/sample4.pdf">
+  <img src="./assets/sample4.png" width="90%" alt="PDF Restoration"/>
+</a>
+
+Scanned document conversion into clean, editable Word files and optimized PDFs.
+
+VIEW PDF →
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
+
+<h2 align="center">✦ GITHUB ANALYTICS ✦</h2>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=haithamah26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=071421&title_color=36D6C5&icon_color=36D6C5&text_color=C9D6DF&include_all_commits=true" alt="GitHub Statistics"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haithamah26&layout=compact&theme=tokyonight&hide_border=true&bg_color=071421&title_color=36D6C5&text_color=C9D6DF" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=haithamah26&theme=tokyonight&hide_border=true&background=071421&ring=36D6C5&fire=36D6C5&currStreakLabel=36D6C5" alt="GitHub Contribution Streak"/>
+</p>
+
+<!-- ═══════════════ CONTRIBUTION GRAPH ═══════════════ -->
+
+<h2 align="center">✦ CONTRIBUTION ACTIVITY ✦</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haithamah26&bg_color=071421&color=36D6C5&line=36D6C5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity"/>
+</p>
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+
+<h2 align="center">✦ LET'S WORK TOGETHER ✦</h2>
+
+<p align="center">
+  <b>Have a document that needs a professional transformation?</b>
+</p>
+
+<p align="center">
+  Let's turn your ideas and documents into polished, functional, and professional deliverables.
+</p>
+
+<p align="center">
+  <a href="mailto:info@tools4u.cloud">
+    <img src="https://img.shields.io/badge/EMAIL%20ME-info%40tools4u.cloud-36D6C5?style=for-the-badge&logo=gmail&logoColor=071421"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/haithamah26">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071421,50:103B48,100:36D6C5&height=110&section=footer"/>
+</p>
+
+<p align="center">
+  <b>PRECISION • QUALITY • PROFESSIONALISM</b>
+  <br/>
+  <sub>Turning Documents Into Professional Experiences.</sub>
+  <br/><br/>
+  © 2026 HAITHAM AHMED | ALL RIGHTS RESERVED
+</p>
