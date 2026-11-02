@@ -49,19 +49,19 @@ My approach combines precision, functionality, and modern visual design to deliv
 
 ✦ Professional Focus
 
-Professional PDF editing and document design.
+- Professional PDF editing and document design.
 
-Advanced Microsoft Word formatting.
+- Advanced Microsoft Word formatting.
 
-Interactive and fillable PDF forms.
+- Interactive and fillable PDF forms.
 
-Corporate reports and business documentation.
+- Corporate reports and business documentation.
 
-Academic papers, theses, and e-books.
+- Academic papers, theses, and e-books.
 
-PDF conversion, restoration, and optimization.
+- PDF conversion, restoration, and optimization.
 
-Print-ready layouts and document redesign.
+- Print-ready layouts and document redesign.
 
 <p align="center">
   <img src="https://img.shields.io/badge/QUALITY-Professional-102D3A?style=flat-square&labelColor=071421"/>
