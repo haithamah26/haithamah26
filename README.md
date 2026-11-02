@@ -104,7 +104,7 @@ Print-ready layouts and document redesign.
 
 <tr>
 <td align="center" width="33%">
-  <img src="https://img.icons8.com/fluency/96/data-integration.png" width="62" alt="File Conversion"/>
+  <img src="https://img.icons8.com/fluency/96/document.png" width="62" alt="File Conversion"/>
   <br/>
   <b>CONVERSION</b>
   <br/>
@@ -161,7 +161,7 @@ Print-ready layouts and document redesign.
 01. INTERACTIVE APPLICATION FORM
 
 <a href="https://github.com/haithamah26/repo/raw/main/sample1.pdf">
-  <img src="./assets/sample1.png" width="90%" alt="Interactive Application Form"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/13330/13330944.png" width="25%" alt="Interactive Application Form"/>
 </a>
 
 Interactive fields, dropdown selections, automatic calculations, and validation.
@@ -174,7 +174,7 @@ VIEW PDF →
 02. CORPORATE ANNUAL REPORT
 
 <a href="https://github.com/haithamah26/repo/raw/main/sample2.pdf">
-  <img src="./assets/sample2.png" width="90%" alt="Corporate Annual Report"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/6996/6996555.png" width="25%" alt="Corporate Annual Report"/>
 </a>
 
 Executive report redesign with professional typography, charts, and branding.
@@ -189,7 +189,7 @@ VIEW PDF →
 03. ACADEMIC THESIS & E-BOOK
 
 <a href="https://github.com/haithamah26/repo/raw/main/sample3.pdf">
-  <img src="./assets/sample3.png" width="90%" alt="Academic Thesis"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/4207/4207253.png" width="25%" alt="Academic Thesis"/>
 </a>
 
 Academic formatting, structured citations, headers, and advanced tables of contents.
@@ -202,7 +202,7 @@ VIEW PDF →
 04. PDF RESTORATION & CONVERSION
 
 <a href="https://github.com/haithamah26/repo/raw/main/sample4.pdf">
-  <img src="./assets/sample4.png" width="90%" alt="PDF Restoration"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/6968/6968842.png" width="25%" alt="PDF Restoration"/>
 </a>
 
 Scanned document conversion into clean, editable Word files and optimized PDFs.
